@@ -24,6 +24,7 @@
 -Mise en place de l'obstacle pique pour le niveau 1.
 -Mise en place de l'obstacle pique pour le niveau 2.
 -Mise en place de l'obstacle pique pour le niveau 6.
+-Mise en place de l'obstacle pique pour le niveau 7.
 
 ## [0.0.1] - 2023-02-09
 ### Ajout
