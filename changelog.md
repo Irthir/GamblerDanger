@@ -22,6 +22,7 @@
 -Création des triggers volumes pour les points de réapparitions 1 à 9.
 -Création de l'obstacle pique.
 -Mise en place de l'obstacle pique pour le niveau 1.
+-Mise en place de l'obstacle pique pour le niveau 2.
 
 ## [0.0.1] - 2023-02-09
 ### Ajout
