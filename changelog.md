@@ -8,6 +8,7 @@
 -Création du blocking du niveau 4.
 -Création du blocking du niveau 5.
 -Création du blocking du niveau 6.
+-Création du blocking du niveau 7.
 
 ## [0.0.1] - 2023-02-09
 ### Ajout
