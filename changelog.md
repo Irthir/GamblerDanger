@@ -25,6 +25,8 @@
 -Mise en place de l'obstacle pique pour le niveau 2.
 -Mise en place de l'obstacle pique pour le niveau 6.
 -Mise en place de l'obstacle pique pour le niveau 7.
+-Création de l'acteur Jeton pour le tire des canons à jetons.
+-Création de l'acteur Distributeur pour le distributeur de jetons qui les tire, sans code pour l'instant.
 
 ## [0.0.1] - 2023-02-09
 ### Ajout
