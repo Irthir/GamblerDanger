@@ -16,7 +16,10 @@
 -Ajout d'une action pour recommencer le niveau.
 -Ajout d'une action pour réapparaitre au point d'apparition enregistré.
 -Ajout d'actions de test pour changer de point d'apparition dynamiquement avec le pavé numérique.
--Création des points d'appaitions 3 à 8.
+-Création des points d'apparitions 3 à 8.
+-Création d'un trigger volume pour affecter automatiquement les points de réapparition.
+-Ajout d'un neuvième point de réapparition tout à la fin du jeu.
+-Création des triggers volumes pour les points de réapparitions 1 à 9.
 
 ## [0.0.1] - 2023-02-09
 ### Ajout
